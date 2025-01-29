@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/DomeldManangan/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/LegenX Logo.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">AWD-Seatwork-1-5-MD-25</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This project is a bus reservation system managing 3 buses that operate daily. It allows passengers to check seat availability and reserve up to 5 seats, ensuring a seamless and efficient booking experience.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=DomeldManangan/AWD-Seatwork-1-5-MD-25)
 
 ---
 
@@ -56,7 +56,7 @@
 ## Overview
 
 <!-- TODO: To be changed -->
-Description of the project in details.
+This project is a bus reservation system designed to manage the daily operations of a fleet of 3 buses. The system allows users to check seat availability and reserve up to 5 seats at a time, ensuring an efficient and user-friendly booking experience. Built with HTML, CSS, and JavaScript, the system provides an interactive interface where HTML structures the content, CSS styles the layout for a clean, responsive design, and JavaScript adds interactivity, such as checking seat availability and managing reservations. The system effectively handles the scheduling of buses and checks if 5 seats are available for reservation at any given time, making it easy for passengers to plan their trips in advance. The overall goal of this project is to streamline the reservation process and improve the efficiency of bus travel by offering a simple, reliable platform for users to reserve their seats.
 
 Guiding Question:
 - What is the project
@@ -66,6 +66,10 @@ Guiding Question:
 
 ### Key Components
 <!-- TODO: List of Key Components -->
+- Animated website
+- Hover animations
+- With JavaScript
+- Functional buttons
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -74,7 +78,7 @@ Guiding Question:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
-1. Always use ***WD-*** in the Title of the Project for the Subject
+1. Always use ***AWD-*** in the Title of the Project for the Subject
 2. Do not rename any .html files; always use 'index.html' as the filename.
 3. File Structure to follow
 
@@ -101,9 +105,25 @@ WD-ProjectName
 └─ readme.md
 ```
 
+## Link for my website
+
+### Main Website
+
+- https://github.com/DomeldManangan/AWD-Seatwork-1-5-MD-25
+
+## Wakatime
+
+- https://wakatime.com/@018f0303-c295-4d90-ab20-dc80859a046a/projects/newpltzikq?start=2025-01-23&end=2025-01-29
+
 ## Resources
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Ian Ramirez | Template | https://github.com/zyx-0314 |
+| Pexels | Wallpaper | https://www.pexels.com |
+| Freepik | Icons | https://www.freepik.com |
+| Google Fonts | Fonts | https://fonts.google.com |
+| Geeksforgeeks | HTML & CSS | https://www.geeksforgeeks.org |
+| Google | HTML & CSS & JS | https://www.google.com |
+| Youtube | JS | https://www.youtube.com |
