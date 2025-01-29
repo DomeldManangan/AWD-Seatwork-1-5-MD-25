@@ -22,6 +22,8 @@
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
 ![](https://visit-counter.vercel.app/counter.png?page=DomeldManangan/AWD-Seatwork-1-5-MD-25)
 
+[![wakatime](https://wakatime.com/badge/user/018f0303-c295-4d90-ab20-dc80859a046a/project/98884095-01e6-4bbe-a6c7-2d17758b730c.svg)](https://wakatime.com/badge/user/018f0303-c295-4d90-ab20-dc80859a046a/project/98884095-01e6-4bbe-a6c7-2d17758b730c)
+
 ---
 
 <br />
