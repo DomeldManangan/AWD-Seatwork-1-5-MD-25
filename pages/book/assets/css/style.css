@@ -1,0 +1,190 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root {
+    --color-accent-1: #c6a288;
+    --color-accent-2: #c99678;
+    --color-secondary-1: #4b403e;
+    --color-secondary-2: #120d0c;
+    --color-primary-1: #f3f3f3;
+    --color-primary-2: #d6d6d6;
+  
+    --header-font: "Poppins", sans-serif;
+    --content-font: "Urbanist", sans-serif;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Urbanist;
+  }
+
+
+  /*----------------- BODY ----------------- */
+
+body{
+  font-family: "quicksand", sans-serif;
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.section1{
+  height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+  display: flex;
+  color: #fff;
+  filter:saturate(150%);
+  text-shadow: 0px 0px 10px white;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  text-align: center;
+  align-content: start;
+  align-items: start;
+}
+
+.wallpaper {
+  position:absolute;
+  object-fit: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: -1;
+  opacity: 70%;
+   right: 0;
+   top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background-size: cover;
+  filter: blur(1px);
+  filter: brightness(60%);
+}
+
+.container {
+  width: 20%;
+  margin: 50px auto;
+  padding: 20px;
+  background: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+
+  position: absolute;
+  top: 50%;
+  left: 20%; /* Moves it to the left side */
+  transform: translateY(-50%); /* Centers it vertically */
+}
+
+h1 {
+  color:#f56942;
+}
+
+select, button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+label {
+  color: black;
+  font-weight: bold;
+}
+
+button {
+  background: #f56942;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #f56942;
+}
+
+#message {
+  font-weight: bold;
+  margin-top: 20px;
+  color: black;
+  font-weight: bold;
+}
+
+
+
+#availableSeats {
+  color: #120d0c;
+}
+
+
+
+/* CONTENT */
+
+.content1 {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 50%;
+  left: 45%; /* Moves it to the left side */
+  transform: translateY(-50%); /* Centers it vertically */
+  text-align: start;
+  max-width: 800px;
+  filter: drop-shadow(0 0 100px black);
+}
+
+.content1 h2{
+  font-size: 4rem;
+  color: white;
+  max-width: 500px;
+  padding-bottom: 1rem;
+}
+
+.content p{
+  font-size: 1rem;
+}
+
+
+
+/* Modal styling */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.modal-content {
+  background-color: white;
+  margin: 15% auto;
+  padding: 20px;
+  border-radius: 8px;
+  width: 50%;
+  text-align: center;
+}
+
+.close {
+  color: red;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.modal-content h2, 
+#modalSeats {
+    color: black;
+    font-weight: bold;
+}

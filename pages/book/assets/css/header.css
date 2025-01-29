@@ -1,0 +1,59 @@
+/*----------------- HEADER ----------------- */
+
+
+header {
+  display: flex;
+  justify-content:flex-end;
+}
+
+.header {
+  width: 100%;
+  padding: 0.6rem;
+  background-color: #111111;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position:static;
+  top: 0;
+  z-index: 1000;
+}
+
+.buttons {
+  color: aliceblue;
+  text-decoration: none;
+  font-weight: 900;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  transition: all ease .2s;
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+  padding-left: 1rem;
+}
+
+.choices {
+  display: flex;
+  align-items: center;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.logo {
+  width: 5rem;
+}
+
+
+/*----------------- HEADER ANIMATIONS ----------------- */
+
+
+.buttons:hover {
+font-size: 1.7rem;
+transform: scale(1);
+    filter: drop-shadow(0 0 10px #f56942);
+    color: #f56942;
+}
