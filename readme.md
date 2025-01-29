@@ -70,6 +70,8 @@ This project is a bus reservation system designed to manage the daily operations
 - Hover animations
 - With JavaScript
 - Functional buttons
+- MultiPage Website
+- Storaging using JavaScript
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -81,9 +83,15 @@ This project is a bus reservation system designed to manage the daily operations
 1. Always use ***AWD-*** in the Title of the Project for the Subject
 2. Do not rename any .html files; always use 'index.html' as the filename.
 3. File Structure to follow
+4. All file naming are in camel case.
+- Camel case is naming format where there is no white space in separation of each words, the first word is in all lower case while the succeding words first letter are in upper followed by lower cased letters.
+- ex.: buttonAnimatedStyle.css
+5. Use only External CSS.
+6. Renaming of Pages folder names are a must, and relates to what it is doing or data it holding.
+7. File Structure to follow below.
 
 ```
-WD-ProjectName
+AWD-ProjectName
 └─ assets
 |   └─ css
 |   |   └─ style.css
