@@ -77,6 +77,7 @@ This project is a bus reservation system designed to manage the daily operations
 - Functional buttons
 - MultiPage Website
 - Storaging using JavaScript
+- Bus Station system
 
 ### Technology
 <!-- TODO: List of Technology Used -->
