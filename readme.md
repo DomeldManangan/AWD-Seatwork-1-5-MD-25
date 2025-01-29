@@ -109,7 +109,7 @@ WD-ProjectName
 
 ### Main Website
 
-- https://github.com/DomeldManangan/AWD-Seatwork-1-5-MD-25
+- https://domeldmanangan.github.io/AWD-Seatwork-1-5-MD-25/
 
 ## Wakatime
 
