@@ -46,6 +46,12 @@
       <a href="#rules-and-principles">Rules and Principles</a>
     </li>
     <li>
+      <a href="#link-for-my-website">Links</a>
+    </li>
+      <li>
+      <a href="#wakatime">Wakatime</a>
+    </li>
+    <li>
       <a href="#resources">Resources</a>
     </li>
   </ol>
@@ -56,13 +62,7 @@
 ## Overview
 
 <!-- TODO: To be changed -->
-This project is a bus reservation system designed to manage the daily operations of a fleet of 3 buses. The system allows users to check seat availability and reserve up to 5 seats at a time, ensuring an efficient and user-friendly booking experience. Built with HTML, CSS, and JavaScript, the system provides an interactive interface where HTML structures the content, CSS styles the layout for a clean, responsive design, and JavaScript adds interactivity, such as checking seat availability and managing reservations. The system effectively handles the scheduling of buses and checks if 5 seats are available for reservation at any given time, making it easy for passengers to plan their trips in advance. The overall goal of this project is to streamline the reservation process and improve the efficiency of bus travel by offering a simple, reliable platform for users to reserve their seats.
-
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+This project is a bus reservation system designed to manage the daily operations of 3 buses, allowing passengers to check seat availability and reserve up to 5 seats per bus. The purpose of the project is to provide a user-friendly platform that simplifies the reservation process, making it easier for passengers to plan their trips and secure seats in advance. The system includes key components such as bus management, seat availability checks, a reservation system, and an intuitive user interface. The technology used includes HTML, CSS, and JavaScript. HTML structures the layout of the system, creating the framework for the user interface. CSS is used to style the page, ensuring the design is responsive and visually appealing. JavaScript handles the dynamic functionality of the system, allowing for real-time seat availability checks and reservations, ensuring a smooth and interactive experience for the users.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
