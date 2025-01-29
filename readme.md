@@ -53,6 +53,9 @@
       <li>
       <a href="#wakatime">Wakatime</a>
     </li>
+          <li>
+      <a href="#instructions">Instructions</a>
+    </li>
     <li>
       <a href="#resources">Resources</a>
     </li>
@@ -124,6 +127,13 @@ AWD-ProjectName
 ## Wakatime
 
 - https://wakatime.com/@018f0303-c295-4d90-ab20-dc80859a046a/projects/newpltzikq?start=2025-01-23&end=2025-01-29
+
+## Instructions
+
+- Pick one of the 3 busses.
+- Then click "Check Availability" to check the availability of the seats inside the bus.
+- Customers can see if the bus is full or if they have more seats.
+- Only 5 customers can be added a time. The total seats per bus is 20 seats.
 
 ## Resources
 
