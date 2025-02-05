@@ -125,6 +125,8 @@ document.addEventListener("DOMContentLoaded", function () {
         paymentModal.style.display = "none";
     }
 
+
+    
     // Function to reserve the selected seats
     function reserveSeats() {
         if (selectedSeats.length !== 5) {
