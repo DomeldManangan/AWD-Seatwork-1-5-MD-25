@@ -331,7 +331,6 @@ button:hover {
 .route-info {
   margin-top: 5px; /* Space between title and route info */
   font-size: 4rem; /* Adjust font size as needed */
-  font-weight: 500px;
   color: #333; /* Change color if needed */
   text-align: center; /* Center align the text */
 }
